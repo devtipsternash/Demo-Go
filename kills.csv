@@ -1,0 +1,190 @@
+Killer,Victim,Weapon,Headshot,WallBang
+apEX,apEX,World,false,false
+lux,ropz,Glock-18,true,false
+lux,apEX,Glock-18,true,false
+latto,mezii,P250,true,false
+ZywOo,Dumau,USP-S,true,false
+ZywOo,saadzin,USP-S,true,false
+flameZ,lux,USP-S,true,false
+n1ssim,flameZ,Glock-18,false,false
+latto,ZywOo,P250,true,false
+Dumau,mezii,MAC-10,true,false
+saadzin,ropz,Galil AR,false,true
+n1ssim,apEX,AK-47,false,true
+latto,flameZ,Galil AR,false,false
+lux,ZywOo,Galil AR,true,false
+n1ssim,mezii,AK-47,true,false
+apEX,saadzin,Five-SeveN,true,false
+apEX,Dumau,Five-SeveN,true,false
+latto,apEX,Galil AR,false,false
+ropz,lux,Desert Eagle,true,false
+latto,ropz,Galil AR,true,false
+ZywOo,Dumau,AWP,false,false
+ZywOo,saadzin,AWP,false,false
+flameZ,lux,M4A4,false,true
+apEX,latto,M4A4,false,false
+n1ssim,apEX,AK-47,true,false
+ZywOo,n1ssim,AWP,false,false
+latto,mezii,AK-47,true,false
+ZywOo,latto,AWP,false,false
+Dumau,ZywOo,AK-47,false,false
+apEX,Dumau,M4A4,false,false
+saadzin,flameZ,AWP,false,false
+apEX,saadzin,M4A4,false,false
+n1ssim,ropz,AK-47,true,false
+apEX,n1ssim,M4A4,false,false
+lux,apEX,AK-47,false,false
+latto,flameZ,Galil AR,false,false
+apEX,Dumau,M4A4,false,false
+n1ssim,apEX,Galil AR,false,true
+ZywOo,n1ssim,AWP,false,false
+mezii,lux,M4A4,true,false
+ZywOo,saadzin,AWP,false,false
+latto,ropz,Galil AR,false,false
+mezii,latto,M4A4,false,false
+latto,flameZ,MAC-10,true,false
+apEX,saadzin,M4A4,true,false
+latto,apEX,M4A4,false,false
+ZywOo,lux,AWP,false,false
+mezii,latto,AK-47,true,false
+mezii,Dumau,AK-47,false,false
+mezii,n1ssim,AK-47,true,false
+latto,mezii,Desert Eagle,true,false
+ropz,latto,M4A1,true,false
+ropz,saadzin,M4A1,false,false
+ZywOo,Dumau,Desert Eagle,true,false
+ZywOo,lux,Desert Eagle,false,false
+ZywOo,saadzin,AWP,false,false
+n1ssim,ropz,AK-47,true,false
+apEX,n1ssim,M4A4,true,false
+flameZ,latto,M4A4,false,false
+apEX,Dumau,M4A4,true,false
+apEX,lux,AK-47,true,false
+mezii,latto,M4A4,true,false
+ropz,Dumau,M4A1,false,false
+n1ssim,ropz,Tec-9,true,false
+mezii,lux,M4A4,true,false
+n1ssim,mezii,Tec-9,true,false
+apEX,n1ssim,AK-47,true,false
+ZywOo,saadzin,AWP,false,false
+flameZ,latto,AK-47,false,false
+ZywOo,Dumau,AWP,false,false
+n1ssim,flameZ,AK-47,false,false
+lux,ZywOo,AK-47,true,false
+mezii,n1ssim,M4A4,false,false
+lux,apEX,AK-47,false,false
+saadzin,mezii,Knife,false,false
+ZywOo,lux,AWP,false,false
+flameZ,saadzin,M4A1,false,false
+ZywOo,n1ssim,AWP,false,false
+ZywOo,Dumau,AWP,false,false
+flameZ,latto,M4A1,true,false
+Dumau,mezii,Dual Berettas,true,false
+ZywOo,Dumau,Glock-18,true,false
+saadzin,flameZ,USP-S,true,false
+saadzin,ropz,USP-S,true,false
+apEX,saadzin,Glock-18,false,false
+n1ssim,ZywOo,USP-S,true,false
+n1ssim,apEX,USP-S,true,false
+latto,mezii,M4A1,false,false
+latto,flameZ,M4A1,true,false
+latto,ZywOo,M4A1,true,false
+ropz,latto,Glock-18,true,false
+lux,apEX,M4A1,true,false
+Dumau,ropz,M4A4,false,false
+Dumau,apEX,M4A4,false,false
+Dumau,ZywOo,M4A4,true,false
+flameZ,Dumau,AK-47,false,false
+flameZ,lux,AK-47,true,false
+latto,ropz,M4A1,false,false
+flameZ,latto,AK-47,true,false
+mezii,n1ssim,AK-47,false,false
+mezii,saadzin,AK-47,true,false
+ropz,latto,Galil AR,true,false
+Dumau,ropz,M4A4,true,false
+Dumau,ZywOo,M4A4,false,false
+flameZ,Dumau,AK-47,true,false
+saadzin,flameZ,SSG 08,false,false
+saadzin,mezii,SSG 08,true,false
+apEX,saadzin,AK-47,false,false
+lux,apEX,Five-SeveN,true,false
+saadzin,apEX,M4A1,false,false
+Dumau,ZywOo,M4A4,false,false
+Dumau,mezii,M4A4,false,false
+Dumau,flameZ,M4A4,false,false
+saadzin,ropz,M4A1,false,false
+ropz,latto,AK-47,true,false
+saadzin,flameZ,M4A1,true,false
+ropz,saadzin,AK-47,false,false
+lux,ropz,AK-47,false,false
+apEX,Dumau,Galil AR,true,false
+ZywOo,n1ssim,AK-47,false,false
+apEX,Dumau,AK-47,true,false
+saadzin,flameZ,AWP,false,false
+mezii,saadzin,AK-47,false,false
+lux,apEX,AK-47,false,false
+latto,mezii,M4A4,true,false
+ZywOo,latto,AK-47,true,false
+n1ssim,ZywOo,M4A4,false,false
+n1ssim,ropz,M4A4,false,true
+mezii,lux,AK-47,true,false
+flameZ,saadzin,Desert Eagle,true,false
+latto,apEX,M4A1,true,false
+latto,flameZ,M4A1,true,false
+latto,mezii,M4A1,true,false
+Dumau,ropz,M4A4,true,false
+Dumau,ZywOo,M4A4,false,false
+n1ssim,ZywOo,MP9,true,false
+ropz,n1ssim,AK-47,true,false
+saadzin,ropz,AWP,false,false
+flameZ,saadzin,AK-47,true,false
+latto,flameZ,M4A1,false,true
+mezii,latto,Galil AR,false,false
+apEX,lux,AK-47,false,false
+apEX,Dumau,AK-47,false,false
+ropz,latto,AK-47,true,false
+Dumau,ropz,M4A4,true,false
+Dumau,ZywOo,M4A4,false,false
+flameZ,lux,Galil AR,true,false
+Dumau,apEX,M4A4,false,false
+flameZ,Dumau,Galil AR,false,false
+mezii,n1ssim,AK-47,true,false
+flameZ,saadzin,M4A4,true,false
+flameZ,n1ssim,AK-47,true,true
+mezii,saadzin,AK-47,false,false
+apEX,latto,AK-47,true,false
+Dumau,apEX,M4A4,true,false
+saadzin,flameZ,M4A1,true,false
+lux,mezii,M4A1,false,false
+ropz,latto,AK-47,true,false
+saadzin,ZywOo,M4A1,false,false
+saadzin,ropz,M4A1,true,false
+ropz,latto,AK-47,true,false
+ZywOo,saadzin,AWP,false,false
+ZywOo,lux,AWP,false,false
+flameZ,n1ssim,AK-47,true,false
+Dumau,flameZ,AWP,false,false
+apEX,Dumau,AK-47,false,false
+flameZ,lux,AK-47,false,true
+flameZ,n1ssim,AK-47,false,false
+Dumau,flameZ,M4A1,false,false
+Dumau,mezii,M4A1,true,false
+ZywOo,Dumau,AWP,false,false
+saadzin,apEX,AWP,false,false
+ropz,saadzin,AK-47,true,false
+latto,mezii,M4A4,false,false
+flameZ,latto,AK-47,false,false
+ZywOo,Dumau,AWP,false,false
+n1ssim,flameZ,M4A1,false,false
+lux,ZywOo,M4A4,true,false
+ropz,lux,AK-47,false,false
+ropz,n1ssim,AK-47,false,false
+latto,flameZ,AK-47,true,false
+apEX,latto,HE Grenade,false,false
+mezii,Dumau,M4A4,true,false
+ropz,n1ssim,M4A1,false,false
+lux,mezii,AK-47,true,false
+ZywOo,lux,AWP,false,false
+apEX,saadzin,M4A4,false,false
+ZywOo,ZywOo,World,false,false
+apEX,apEX,World,false,false
